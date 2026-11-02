@@ -1,2 +1,2 @@
 # noahkrakatoa.github.io
-Communications Requirement 7b: Bouldering Website
+This project will be a site that conglomerates live climbing competitions to provide rock climbers with an easy way to access all current events.
